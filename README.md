@@ -1,2 +1,3 @@
-# Fever-Detection-Technologies
+# Fever Detection Technologies
 TECH Together Campaign
+
